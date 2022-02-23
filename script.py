@@ -1,9 +1,6 @@
 adadsadsadadsadasdasdadasdasdadasdasdadasdasdaca
 delattras
 d
-as
 delattrd
 assertas
-delattrdas
-d
-andd
+delattrda
