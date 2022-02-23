@@ -1,5 +1,4 @@
 adadsadsadadsadasdasdadasdasdadasdasdadasdasdaca
-d
 delattrd
 assertas
 delattrda
