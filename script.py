@@ -1,6 +1,5 @@
 adadsadsadadsadasdasdadasdasdadasdasdadasdasdaca
 delattras
-
 delattrd
 assertas
 delattrda
