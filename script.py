@@ -1,3 +1,2 @@
 adadsadsadadsadasdasdadasdasdad
-delattrd
-a
+de
