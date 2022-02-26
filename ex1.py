@@ -4,6 +4,6 @@ num = float(input("Informe um número: "))
 resto = num % 2
 
 if resto == 0:
-    print("O número {} é um PAR.".format(num))
+    print(f"O número {num} é um PAR.")
 else:
-    print("O número {} é ÍMPAR".format(num))
+    print(f"O número {num} é ÍMPAR")
