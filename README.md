@@ -12,15 +12,8 @@ This is a project that contains 5 exercises made for my Computer Science Bachelo
 </h1>
 
 # 💻 Technologies
-## Front End
-- **HTML**
-- **CSS**
-- **JS**
 ## Back End
 - **JS**
-- **Node.JS**
-  - With Express, Nodemon and Nunjucks
-- **PostgreSQL**
 
 # 🕹️ How To Use
 ```bash
