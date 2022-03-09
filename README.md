@@ -14,14 +14,5 @@ This is a project that contains 5 exercises made for my Computer Science Bachelo
 # 💻 Technologies
 - **PYTHON**
 
-# 🕹️ How To Use
-```bash
-# Install the dependencies 
-npm install
-
-# Run the app
-npm start
-```
-
 # 📝 License
 This project have the license of the [MIT](./LICENSE).
