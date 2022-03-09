@@ -6,6 +6,10 @@ This is a project that contains 5 exercises made for my Computer Science Bachelo
 <h1 align="center">
     <img alt="ex1_gif" title="ex1_GIF" src="github/ex1.gif">
 </h1>
+### Ex2
+<h1 align="center">
+    <img alt="ex1_gif" title="ex1_GIF" src="github/ex1.gif">
+</h1>
 
 # 💻 Technologies
 - **PYTHON**
