@@ -2,7 +2,7 @@
 This is a project that contains 5 exercises made for my Computer Science Bachelor 
 
 ## Interface 
-### Teste
+### Ex1
 <h1 align="center">
     <img alt="Doe_GIF" title="Doe_Interface_GIF" src="github/Doe_Website_GIF.gif">
 </h1>
