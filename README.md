@@ -4,7 +4,7 @@ This is a project that contains 5 exercises made for my Computer Science Bachelo
 ## Interface 
 ### Ex1
 <h1 align="center">
-    <img alt="Doe_GIF" title="Doe_Interface_GIF" src="github/Doe_Website_GIF.gif">
+    <img alt="ex1_gif" title="ex1_GIF" src="github/ex1_gif.gif">
 </h1>
 
 # 💻 Technologies
