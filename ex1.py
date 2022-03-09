@@ -7,4 +7,3 @@ if resto == 0:
     print(f"O número {num} é um PAR.")
 else:
     print(f"O número {num} é ÍMPAR")
-a
