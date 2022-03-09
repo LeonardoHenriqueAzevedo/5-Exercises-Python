@@ -3,6 +3,8 @@
 Homens: (72.7 * h) – 58
 Mulher: (62.1 * h) – 44.7
 """
+
+print("Calculadora Peso Ideal")
 sexo = str(input("Informe seu sexo [M/F]: "))
 altura = float(input("Informe sua altura em metros: "))
 
