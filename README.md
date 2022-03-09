@@ -12,8 +12,7 @@ This is a project that contains 5 exercises made for my Computer Science Bachelo
 </h1>
 
 # 💻 Technologies
-## Back End
-- **JS**
+- **PYTHON**
 
 # 🕹️ How To Use
 ```bash
